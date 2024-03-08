@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-gerador",
-    "slug": "app-gerador",
+    "name": "geradorsenha",
+    "slug": "geradorsenha",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
